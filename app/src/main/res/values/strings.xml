@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">QNote</string>
+    <string name="action_settings">设置</string>
+    <string name="action_check_update">检查更新</string>
+    <string name="action_about">关于</string>
+    <string name="button_save">保存</string>
+</resources>
